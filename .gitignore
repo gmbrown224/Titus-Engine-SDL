@@ -27,6 +27,12 @@ __pycache__
 *.swp
 *.tmp
 *.rej
+*.tlog
+*.lastbuildstate
+*unsuccessfulbuild
+bin/
+obj/
+bin-int/
 
 # for CMake
 .cmake
